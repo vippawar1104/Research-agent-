@@ -17,7 +17,7 @@ The workflow consists of five main components:
 
 ## Workflow Diagram
 
-![Workflow Screenshot](path/to/your/screenshot.png)
+![Workflow Screenshot](Researchagent.png)
 
 ## Demo Video
 
