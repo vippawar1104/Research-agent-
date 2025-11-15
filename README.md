@@ -19,12 +19,6 @@ The workflow consists of five main components:
 
 ![Workflow Screenshot](Researchagent.png)
 
-## Demo Video
-
-Watch the workflow in action:
-
-[Demo Video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
 ## Prerequisites
 
 - n8n instance (self-hosted or cloud)
